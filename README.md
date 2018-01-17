@@ -43,5 +43,3 @@ QQ群：499174415<br>
 
  © 2017 [刘望舒][itachi85]. This code is distributed under the MIT license.
 
-
-[itachi85]:http://liuwangshu.cn
